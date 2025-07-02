@@ -245,28 +245,25 @@ function App() {
 						</div>
 						<div className='warning-popup-body'>
 							<p className='warning-popup-text'>
-								A API responsável por Registro, Login e Salvamento de Artigos
-								está hospedada em um servidor gratuito que{' '}
+								A API responsável pela leitura do arquivo PDF está hospedada em
+								um servidor gratuito que{' '}
 								<span className='warning-popup-font-weight_bold'>
 									pode entrar em hibernação após um período de inatividade.
 								</span>
 								<span className='warning-popup-paragraph'>
 									Por isso, o tempo de resposta na{' '}
 									<span className='warning-popup-font-weight_bold'>
-										primeira utilização
-									</span>{' '}
-									(como durante o registro) pode ser mais lento. Após esse
-									primeiro acesso, a API volta a responder normalmente.
+										primeira utilização{' '}
+									</span>
+									pode ser mais lento.{' '}
+									<span className='warning-popup-paragraph'>
+										Após esse primeiro acesso,{' '}
+										<span className='warning-popup-font-weight_bold'>
+											a API volta a responder normalmente.
+										</span>
+									</span>
 								</span>
 								<span className='warning-popup-paragraph'>
-									Já a API utilizada para{' '}
-									<span className='warning-popup-font-weight_bold'>
-										busca de artigos
-									</span>{' '}
-									é fornecida por terceiros e permanece ativa continuamente,
-									garantindo respostas rápidas desde o início.
-								</span>{' '}
-								<span className='warning-popup-font-weight_bold warning-popup-paragraph'>
 									Agradeço a todos pela compreensão.
 								</span>
 							</p>
