@@ -4,7 +4,7 @@ Aplicação frontend em React para upload e extração automática de código de
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Upload de arquivos PDF via drag & drop ou seleção manual
 - Validação de formato e tamanho (apenas PDFs, max 10MB)
@@ -16,7 +16,7 @@ Aplicação frontend em React para upload e extração automática de código de
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - React.js (Hooks: useState, useEffect, useRef)
 - Axios para chamadas HTTP
@@ -25,7 +25,7 @@ Aplicação frontend em React para upload e extração automática de código de
 
 ---
 
-## 📋 Como funciona
+## Como funciona
 
 - O usuário pode arrastar e soltar um arquivo PDF na área indicada ou clicar para selecionar manualmente.
 - O arquivo é validado para garantir que seja PDF e que esteja dentro do limite de tamanho.
@@ -36,7 +36,7 @@ Aplicação frontend em React para upload e extração automática de código de
 
 ---
 
-## 🖼️ Tela e interação
+## Tela e interação
 
 - Área de upload com feedback visual (drag over)
 - Indicador de arquivo selecionado com nome e tamanho
@@ -48,7 +48,7 @@ Aplicação frontend em React para upload e extração automática de código de
 
 ---
 
-## ⚠️ Limitações
+## Limitações
 
 - Aceita apenas arquivos PDF
 - Tamanho máximo de arquivo: 10MB
@@ -57,13 +57,13 @@ Aplicação frontend em React para upload e extração automática de código de
 
 ---
 
-## 📞 Contato
+## Contato
 
 Para dúvidas, sugestões ou contribuições, abra uma issue ou envie um pull request.
 
 ---
 
-## 📄 Licença
+## Licença
 
 MIT License — livre para uso e modificações.
 
