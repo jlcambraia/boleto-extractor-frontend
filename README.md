@@ -1,4 +1,4 @@
-# Extrator de Código de Barras - Frontend React
+# Extrator de Código de Barras para PDFs - Frontend
 
 Aplicação frontend em React para upload e extração automática de código de barras de boletos em PDF, consumindo uma API backend.
 
