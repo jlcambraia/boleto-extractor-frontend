@@ -235,7 +235,7 @@ function App() {
 				<div className='warning-popup-overlay' onClick={handleOverlayClick}>
 					<div className='warning-popup-box'>
 						<div className='warning-popup-header'>
-							<h3>Aviso sobre desempenho da Api</h3>
+							<h3>Aviso sobre desempenho da API</h3>
 							<button
 								className='warning-close-popup'
 								onClick={handleCloseWarningPopup}
